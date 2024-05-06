@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋,Myself I'm Kheshore JR</h1>
+<h1 align="center">Hey there 👋,Myself Kheshore JR</h1>
 <h3 align="center">| Design Thinker | ASE MERN | IoT-Engineer |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kheshore&label=Profile%20views&color=0e75b6&style=flat" alt="kheshore" /> </p>
